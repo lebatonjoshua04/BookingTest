@@ -1,0 +1,25 @@
+html, body{ margin-left: 0px; 
+    overflow-y: scroll;
+overflow-x: hidden;}
+
+#bookdetailsbody {margin-top: 20px;}
+            
+.titleacc { font-size: 40px;
+           font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.titlebooking {font-size: 50px;
+    font-weight: arial;}
+
+.personalinfo, .adress, .emegency {color: gray;
+                font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.acch5, p {color: blue; font-weight: bold; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.btnobt {margin-left: 200px;;}
+
+.bookh5 {color: blue;}
+
+.s {border-style: outset;}
+
+#firstbox:hover {border-style:solid;
+    transition: all .1s ease-out;}
